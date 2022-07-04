@@ -3,6 +3,7 @@ Updated to the latest version - 5.1
 
 ## Patches
 * [center](https://tools.suckless.org/dmenu/patches/center/)
+* [border](https://tools.suckless.org/dmenu/patches/border/)
 * [password](https://tools.suckless.org/dmenu/patches/password/)
 * [highpriority](https://tools.suckless.org/dmenu/patches/highpriority/)
 
