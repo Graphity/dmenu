@@ -808,7 +808,7 @@ setup(void)
 static void
 usage(void)
 {
-	fputs("usage: dmenu [-bfivP] [-l lines] [-h height] [-p prompt] [-fn font] [-m monitor]\n"
+	fputs("usage: dmenu [-bfivcP] [-l lines] [-h height] [-p prompt] [-fn font] [-m monitor]\n"
           "             [-nb color] [-nf color] [-sb color] [-sf color] [-w windowid]\n"
 		  "             [-hb color] [-hf color] [-hp items]\n", stderr);
 	exit(1);
